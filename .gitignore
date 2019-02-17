@@ -1,6 +1,3 @@
-*
-!*.cpp
-!*.md
-!.gitignore
-!*.h
-!*.hpp
+.DS_Store
+._*
+*/bin
